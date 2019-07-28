@@ -1,0 +1,6 @@
+Ensuring transperancy in Elections and referendums thorugh Blockchain
+Recent activities of data rigging in the recent and prior elections call for immediate measures which increase security and significantly reduce the amount of fraud votes cast by people belonging to a political party through booth campturing.
+I will be using decentralized identifier which are better than traditional EC Commission cards which don't take in account of biometric authentication. It will assure better immutability and any sort of tampering.
+Using a DID we can overcome the limitations posed by physical barriers to placing polling booths. Also, additional security of polling booths may not be needed for safe conduct of elections.
+The DID will be secured through a private key and based upon the Azure blockchain. 
+Blockchain elections will require an assortment of identity data — such as government-issued IDs and biometric data collected during online registration — to match a voter with his or her digital identity in a government voter registration database. Biometrics like iris and face data can be used to prove identity in conjunction with voting on blockchain.Azure Blockchain platform can be used as a Trusted Third Party.
